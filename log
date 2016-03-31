@@ -1,0 +1,9 @@
+:compileJava UP-TO-DATE
+:processResources UP-TO-DATE
+:classes UP-TO-DATE
+:findMainClass
+:bootRun FAILED
+
+BUILD FAILED
+
+Total time: 3.666 secs
